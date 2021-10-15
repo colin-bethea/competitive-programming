@@ -1,4 +1,4 @@
-# Competitive Programming
+# Competitive Programming [Solutions]
 ### Platforms
 * Codeforces
 ### Disclaimer
